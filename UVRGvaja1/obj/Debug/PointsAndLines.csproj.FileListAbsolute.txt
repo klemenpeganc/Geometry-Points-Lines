@@ -1,0 +1,9 @@
+C:\Users\Klemen\Documents\Visual Studio 2017\Projects\UVRGvaja1\UVRGvaja1\bin\Debug\UVRGvaja1.exe.config
+C:\Users\Klemen\Documents\Visual Studio 2017\Projects\UVRGvaja1\UVRGvaja1\bin\Debug\UVRGvaja1.exe
+C:\Users\Klemen\Documents\Visual Studio 2017\Projects\UVRGvaja1\UVRGvaja1\bin\Debug\UVRGvaja1.pdb
+C:\Users\Klemen\Documents\Visual Studio 2017\Projects\UVRGvaja1\UVRGvaja1\obj\Debug\PointsAndLines.csprojResolveAssemblyReference.cache
+C:\Users\Klemen\Documents\Visual Studio 2017\Projects\UVRGvaja1\UVRGvaja1\obj\Debug\UVRGvaja1.Form1.resources
+C:\Users\Klemen\Documents\Visual Studio 2017\Projects\UVRGvaja1\UVRGvaja1\obj\Debug\UVRGvaja1.Properties.Resources.resources
+C:\Users\Klemen\Documents\Visual Studio 2017\Projects\UVRGvaja1\UVRGvaja1\obj\Debug\PointsAndLines.csproj.GenerateResource.Cache
+C:\Users\Klemen\Documents\Visual Studio 2017\Projects\UVRGvaja1\UVRGvaja1\obj\Debug\UVRGvaja1.exe
+C:\Users\Klemen\Documents\Visual Studio 2017\Projects\UVRGvaja1\UVRGvaja1\obj\Debug\UVRGvaja1.pdb

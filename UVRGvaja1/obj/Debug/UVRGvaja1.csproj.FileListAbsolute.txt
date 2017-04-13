@@ -1,0 +1,9 @@
+c:\users\klemen\documents\visual studio 2015\Projects\UVRGvaja1\UVRGvaja1\bin\Debug\UVRGvaja1.exe.config
+c:\users\klemen\documents\visual studio 2015\Projects\UVRGvaja1\UVRGvaja1\bin\Debug\UVRGvaja1.exe
+c:\users\klemen\documents\visual studio 2015\Projects\UVRGvaja1\UVRGvaja1\bin\Debug\UVRGvaja1.pdb
+c:\users\klemen\documents\visual studio 2015\Projects\UVRGvaja1\UVRGvaja1\obj\Debug\UVRGvaja1.csprojResolveAssemblyReference.cache
+c:\users\klemen\documents\visual studio 2015\Projects\UVRGvaja1\UVRGvaja1\obj\Debug\UVRGvaja1.Form1.resources
+c:\users\klemen\documents\visual studio 2015\Projects\UVRGvaja1\UVRGvaja1\obj\Debug\UVRGvaja1.Properties.Resources.resources
+c:\users\klemen\documents\visual studio 2015\Projects\UVRGvaja1\UVRGvaja1\obj\Debug\UVRGvaja1.csproj.GenerateResource.Cache
+c:\users\klemen\documents\visual studio 2015\Projects\UVRGvaja1\UVRGvaja1\obj\Debug\UVRGvaja1.exe
+c:\users\klemen\documents\visual studio 2015\Projects\UVRGvaja1\UVRGvaja1\obj\Debug\UVRGvaja1.pdb
